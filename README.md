@@ -86,5 +86,11 @@ I believe in clean code, best practices, and continuous learning to stay ahead i
 ![CI/CD](https://img.shields.io/badge/-CI/CD-EC4D37?style=for-the-badge&logo=github-actions&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
+## 📊 **GitHub Stats**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirhosseinmirmohammad&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhosseinmirmohammad&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amirhosseinmirmohammad&theme=radical)  
+![Profile Views](https://komarev.com/ghpvc/?username=amirhosseinmirmohammad&color=brightgreen)
+
 🔥 **Always Learning & Building Cool Stuff! Let's Connect! 🚀**
 
