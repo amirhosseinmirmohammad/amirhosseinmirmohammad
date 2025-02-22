@@ -1,5 +1,3 @@
-**
-
 ## 👋 Hi there, I'm Amir Hossein Mir Mohammad!
 
 **
