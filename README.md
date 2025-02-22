@@ -53,3 +53,10 @@ I believe in clean code, best practices, and continuous learning to stay ahead i
 🚀 Looking for collaborations, new opportunities, or just a tech talk? Feel free to reach out! 🚀
 
 💻 "Code is like humor. When you have to explain it, it’s bad." – Cory House 💻
+
+## 📫 How to Reach Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amirhosseinmirmohammad)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/amirhosseinmirmohammad)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:your.email@example.com)
+[![Website](https://img.shields.io/badge/-Portfolio-4285F4?style=flat&logo=Google-Chrome&logoColor=white)](https://yourwebsite.com)
