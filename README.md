@@ -66,7 +66,6 @@ I believe in clean code, best practices, and continuous learning to stay ahead i
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### 🏗 **Frameworks & Libraries**
 ![.NET Core](https://img.shields.io/badge/-.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
